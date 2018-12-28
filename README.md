@@ -1,6 +1,8 @@
 # MSSQL
 Pasta contendo Scripts diversos para Microsoft SQL Server.
+
 Apesar de vários testes, em alguns casos o script retornar um resultado diferente do esperado portanto, sempre teste antes de utilizar.
+
 
 Os scripts possuem comentários ao longo do código para facilitar o entendimento.
 
